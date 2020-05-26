@@ -51,3 +51,32 @@ set_target_properties (uni-synthesize PROPERTIES
   OUTPUT_NAME synthesize
   RUNTIME_OUTPUT_DIRECTORY ${UniringBinPath})
 
+#### Topdown Tree Synthesis ####
+addbinexe (uni-Topdown uni/Topdown.cc uni/unifile.cc ${ProtoconSources})
+set_property (TARGET uni-Topdown
+  APPEND PROPERTY INCLUDE_DIRECTORIES ${GluIncludePath})
+#set_property (TARGET uni-Topdown
+#  PROPERTY COMPILE_FLAGS "-Wextra -std=c++11")
+#set_property (TARGET uni-Topdown
+#  PROPERTY LINK_FLAGS "-Wextra -std=c++11")
+#set_source_files_properties (${BldPath}/uni/Topdown.cc
+#  PROPERTIES COMPILE_FLAGS "-Wextra -std=c++11")
+target_link_libraries (uni-Topdown cu glu cal ${M_LIB})
+set_target_properties (uni-Topdown PROPERTIES
+  OUTPUT_NAME Topdown
+  RUNTIME_OUTPUT_DIRECTORY ${UniringBinPath})
+
+  #### Bottomup Tree Synthesis ####
+addbinexe (uni-Bottomup uni/Bottomup.cc uni/unifile.cc ${ProtoconSources})
+set_property (TARGET uni-Bottomup
+  APPEND PROPERTY INCLUDE_DIRECTORIES ${GluIncludePath})
+#set_property (TARGET uni-Bottomup
+#  PROPERTY COMPILE_FLAGS "-Wextra -std=c++11")
+#set_property (TARGET uni-Bottomup
+#  PROPERTY LINK_FLAGS "-Wextra -std=c++11")
+#set_source_files_properties (${BldPath}/uni/Bottomup.cc
+#  PROPERTIES COMPILE_FLAGS "-Wextra -std=c++11")
+target_link_libraries (uni-Bottomup cu glu cal ${M_LIB})
+set_target_properties (uni-Bottomup PROPERTIES
+  OUTPUT_NAME Bottomup
+  RUNTIME_OUTPUT_DIRECTORY ${UniringBinPath})

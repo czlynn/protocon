@@ -1,0 +1,1 @@
+cmd='/Applications/CMake.app/Contents/bin/cmake;-D;peg_exe:string=/Users/zhilinchen/Documents/GitHub/protocon/dep/peg/leg;-D;GluPath:string=/Users/zhilinchen/Documents/GitHub/protocon/dep/mdd-glu;../src'

@@ -1,0 +1,13 @@
+constant N := 2;
+constant M := 2;
+variable x[N] < M;
+(future & future silent) (true);
+process P[i < N]
+{
+  read: x[i-1];
+  write: x[i];
+  puppet:
+    ( x[i-1]==0 && x[i]==1 --> x[i]:=0; )
+    ( x[i-1]==0 && x[i]==1 --> x[i]:=0; )
+    ;
+}

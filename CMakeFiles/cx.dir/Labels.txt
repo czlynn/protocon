@@ -1,0 +1,13 @@
+# Target labels
+ cx
+# Source files and their labels
+/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/cx
+/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/cx.rule
+/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/cx-complete.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-install.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-mkdir.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-download.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-update.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-patch.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-configure.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-build.rule

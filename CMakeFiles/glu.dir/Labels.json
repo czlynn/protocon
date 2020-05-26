@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/glu"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/glu.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/glu-complete.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-install.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-mkdir.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-download.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-update.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-patch.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-configure.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glu"
+		],
+		"name" : "glu"
+	}
+}

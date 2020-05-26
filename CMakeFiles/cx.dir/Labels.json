@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/cx"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/cx.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/cx-complete.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-install.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-mkdir.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-download.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-update.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-patch.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-configure.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/cx/src/cx-stamp/cx-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cx"
+		],
+		"name" : "cx"
+	}
+}

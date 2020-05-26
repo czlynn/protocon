@@ -1,0 +1,13 @@
+# Target labels
+ glu
+# Source files and their labels
+/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/glu
+/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/glu.rule
+/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/glu-complete.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-install.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-mkdir.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-download.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-update.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-patch.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-configure.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/mdd-glu/src/glu-stamp/glu-build.rule

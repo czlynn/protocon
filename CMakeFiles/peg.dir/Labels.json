@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/peg"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/peg.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/peg-complete.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/peg/src/peg-stamp/peg-install.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/peg/src/peg-stamp/peg-mkdir.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/peg/src/peg-stamp/peg-download.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/peg/src/peg-stamp/peg-update.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/peg/src/peg-stamp/peg-patch.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/peg/src/peg-stamp/peg-configure.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/peg/src/peg-stamp/peg-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"peg"
+		],
+		"name" : "peg"
+	}
+}

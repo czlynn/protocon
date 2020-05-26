@@ -1,0 +1,13 @@
+constant N:=_;
+constant M:=2;
+
+variable x[N]<M;
+
+process P[i<N]
+{
+  read: x[(i+1)/2-1];
+  write: x[i]
+
+  (funture & silent)
+    (x[i]!=x[(i+1)/2-1]);
+}

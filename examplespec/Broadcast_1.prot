@@ -1,0 +1,20 @@
+constant M :=2;
+variable x[i] < M;
+
+process P[i=0]
+{
+  read: x[i];
+  write: x[i];
+
+  ( future & silent)
+    (x[i]<M);
+}
+
+process P[i!=0]
+{
+  read: x[(i+1)/2-1];
+  write: x[i]; 
+
+  ( future & silent)
+    (x[i]=x[(i+1)/2-1]);
+}

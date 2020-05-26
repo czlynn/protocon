@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/protocon"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/protocon.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/protocon-complete.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-install.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-mkdir.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-download.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-update.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-patch.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-configure.rule"
+		},
+		{
+			"file" : "/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"protocon"
+		],
+		"name" : "protocon"
+	}
+}

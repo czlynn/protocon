@@ -69,6 +69,8 @@ list (APPEND CCFiles
   uni/synthesize.cc
   uni/unifile.cc
   uni/xlate.cc
+  uni/Topdown.cc
+  uni/Bottomup.cc
   msat.cc
   main-all.cc
   )

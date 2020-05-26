@@ -1,0 +1,13 @@
+# Target labels
+ protocon
+# Source files and their labels
+/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/protocon
+/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/protocon.rule
+/Users/zhilinchen/Documents/GitHub/protocon/CMakeFiles/protocon-complete.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-install.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-mkdir.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-download.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-update.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-patch.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-configure.rule
+/Users/zhilinchen/Documents/GitHub/protocon/external/src/src/protocon-stamp/protocon-build.rule
